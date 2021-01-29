@@ -1,4 +1,4 @@
-Bash script to setup SSH Port Forwarding
+# Bash script to setup SSH Port Forwarding
 Perfect for creating Bash/ZSH/*SH aliases around
 
 Usage:  ./ssh-port-forward <forward_name> <local_port> <forwarded_host> <forwarded_port> <ssh_host>
